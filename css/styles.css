@@ -11235,3 +11235,24 @@ header.masthead .site-heading .h1 {
     font-size: 2.25rem;
   }
 }
+#jamtime ul {
+  margin: 0 auto;
+  padding: 0px;
+  list-style: none;
+  text-align: center;
+}
+
+#jamtime ul li {
+  display: inline;
+  font-size: 20px;
+  text-align: center;
+  font-family: 'BebasNeueRegular', Arial, Helvetica, sans-serif;
+  text-shadow: 0 0 2px #00c6ff;
+}
+#Date {
+  font-family: 'BebasNeueRegular', Arial, Helvetica, sans-serif;
+  font-size: 17px;
+  margin: 0px;
+  text-align: center;
+  text-shadow: 0 0 1px #00c6ff;
+}
