@@ -6,6 +6,12 @@ Disini kita saling berbagi pengetahuan mengenai berbagai macam Tips dan trik. Ji
 
 Follow Media Sosial Adani :
 - Facebook : @afdul12
-- Twitter : @afdulanwaradan1
+- Twitter : @afdulanwaradani
 - Instagram : @afdulanwaradani
 - Website : www.dani31.eu.org
+- Blog : www.upx.my.id
+- Youtube : www.youtube.com/@upxidgaming
+- VK : www.vk.com/afdul12
+- Threads : www.threads.net/@afdulanwaradani
+- TikTok : www.tiktok.com/@afdhul12
+- Twitch : www.twitch.tv/afdulanwaradani
